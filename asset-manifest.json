@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pdf-highlighter-demo/static/css/main.d8005a97.css",
+    "main.js": "/pdf-highlighter-demo/static/js/main.0e38a4aa.js",
+    "index.html": "/pdf-highlighter-demo/index.html",
+    "main.d8005a97.css.map": "/pdf-highlighter-demo/static/css/main.d8005a97.css.map",
+    "main.0e38a4aa.js.map": "/pdf-highlighter-demo/static/js/main.0e38a4aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8005a97.css",
+    "static/js/main.0e38a4aa.js"
+  ]
+}
